@@ -61,7 +61,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private String t = "zh";//译文语言
     private String aid = "20180516000160623";//APP ID
     private String salt = "1435660288";//随机数
-    private String secretkey = "U_aL8_6aRQSRgOmQYmQA";//密钥
+//    private String secretkey = "U_aL8_6aRQSRgOmQYmQA";//密钥
+    private String secretkey = "abOOqlPfWcwouNN8hM87";//密钥
     private Handler handler = new Handler() {
         @Override
         public void handleMessage(Message msg) {
